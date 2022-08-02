@@ -1,0 +1,21 @@
+h5 {
+  color: #6610f2;
+}
+
+p {
+  color: black;
+}
+
+.footer {
+  font-size: 20px;
+  border: 1px solid black;
+  padding: 15px 15px 15px 30px;
+  background-color: whitesmoke;
+}
+
+.footer:after {
+  content: "test av extra text på slutet";
+}
+
+
+  
